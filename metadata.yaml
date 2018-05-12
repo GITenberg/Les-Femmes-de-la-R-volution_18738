@@ -15,6 +15,8 @@ creator:
     - http://en.wikipedia.org/wiki/Jules_Michelet
     - http://fr.wikipedia.org/wiki/Jules_Michelet
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/18738#Les-Femmes-de-la-R-volution
 gutenberg_bookshelf: FR Histoire
 gutenberg_issued: '2006-07-02'
 gutenberg_type: Text
