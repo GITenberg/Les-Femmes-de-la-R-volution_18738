@@ -1,0 +1,32 @@
+_repo: Les-Femmes-de-la-R-volution_18738
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Michelet, Jules
+    alias: Michelet, J.
+    birthdate: 1798
+    deathdate: 1874
+    gutenberg_agent_id: '8214'
+    url: http://www.gutenberg.org/2009/agents/8214
+    wikipedia:
+    - http://en.wikipedia.org/wiki/Jules_Michelet
+    - http://fr.wikipedia.org/wiki/Jules_Michelet
+description: ''
+gutenberg_bookshelf: FR Histoire
+gutenberg_issued: '2006-07-02'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '18738'
+language: fr
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Women -- Biography'
+- !lcc 'DC'
+- !lcsh 'France -- History -- Revolution, 1789-1799 -- Biography'
+title: Les Femmes de la Révolution
+url: http://www.gutenberg.org/ebooks/18738
